@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="499d2520-be93-4551-bce7-8fef3649000d" name="Changes" comment="added obstacle in the maze and found the path" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ROHITGUPTA069&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ROHITGUPTA069/DSA-.git&quot;,
+    &quot;accountId&quot;: &quot;865d8d4e-51a3-44d4-a0b0-afdfc98e5e63&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/BinarySearch2D/SearchInSortedMatrix.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Recursion_practice/Linear_Search_withMultipleOccurence.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2rZ0NC6HhFWjxojlEHJGMCqFPHU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Ascii.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AsciiArraylist.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Binarysearch2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Count_Zeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CyclicSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DigitsProducts.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindDublicateNumber287.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Findfirstandlastposition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Linear_Search_using_recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Linear_Search_withMultipleOccurence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Linearsearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Missing_Number268.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoreThanOneDublicates442.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Number_of_Steps_to_Reduce_a_Number_to_Zero.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OrderAgnostic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Passing_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PhonePad.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Printing_AtoB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QNo448.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QuickSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchInSortedMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Searchin2darray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Searchinstring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Set_Mismatch645.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SkipACharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_Palindrom.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arrayQuestion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.diceThrow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.evennumber2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.evennumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.find_number_of_rotation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.findinmountainarray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.infiniteArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.insertionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.iterativeMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.iterativeMethodSubet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mazeProblem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mergeSortInPlace.executor&quot;: &quot;Run&quot;,
+    &quot;Application.min.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.p1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.p2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.p3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.p4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.p5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.p6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.p7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.p8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.palindrom_recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.peakindexatmountainarray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.q1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.q2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.q3_factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.q4_sumOFnNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.recursionUsingPermutation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.rotatedbinarysearchwithdublicatedarray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.searchinmatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.searchinrotatedarray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.selectionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.skipAppwhenNotApple.executor&quot;: &quot;Run&quot;,
+    &quot;Application.skipString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.splitarray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.subsequenceWithArraylist.executor&quot;: &quot;Run&quot;,
+    &quot;Application.subsequnce.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.preview.features.used&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Rohit Gupta/IdeaProjects/DSA&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.08403361&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rohit Gupta\IdeaProjects\January\src\WeeklyTest" />
+      <recent name="C:\Users\Rohit Gupta\IdeaProjects\January\src" />
+      <recent name="C:\Users\Rohit Gupta\IdeaProjects\January\WeeklyTest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.diceThrow">
+    <configuration name="PhonePad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.AmazonQuestions.PhonePad" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.AmazonQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Printing_AtoB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Printing_AtoB" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.AmazonQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="diceThrow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.AmazonQuestions.diceThrow" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.AmazonQuestions.*" />
+          <option name="ENABLED" value="false" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mazeProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-23" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Backtracking.mazeProblem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="recursionUsingPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.permutation.recursionUsingPermutation" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.permutation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.mazeProblem" />
+        <item itemvalue="Application.diceThrow" />
+        <item itemvalue="Application.PhonePad" />
+        <item itemvalue="Application.recursionUsingPermutation" />
+        <item itemvalue="Application.Printing_AtoB" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="499d2520-be93-4551-bce7-8fef3649000d" name="Changes" comment="" />
+      <created>1736751249926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736751249926</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added obstacle in the maze and found the path">
+      <option name="closed" value="true" />
+      <created>1750493457561</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750493457561</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added obstacle in the maze and found the path">
+      <option name="closed" value="true" />
+      <created>1750493741704</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1750493741704</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added obstacle in the maze and found the path">
+      <option name="closed" value="true" />
+      <created>1750494306205</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1750494306205</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added obstacle in the maze and found the path" />
+    <option name="LAST_COMMIT_MESSAGE" value="added obstacle in the maze and found the path" />
+  </component>
+</project>
